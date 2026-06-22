@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import AccueilView from '../views/AccueilView.vue'
 import CatalogueView from '../views/CatalogueView.vue'
 import DetailView from '../views/DetailView.vue'
@@ -14,7 +14,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   basse: import.env.BASSE_URL,
   routes,
   scrollBehavior() {
