@@ -15,10 +15,12 @@ const routes = [
 
 const router = createRouter({
   history: createWebHistory(),
+  basse: import.env.BASSE_URL,
   routes,
   scrollBehavior() {
     return { top: 0 }
   },
 })
+
 
 export default router
