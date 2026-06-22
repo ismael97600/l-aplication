@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Cybersecurite web</title>
+  <desc id="desc">Illustration de bouclier et securite web.</desc>
+  <rect width="600" height="400" fill="#7f1d1d"/>
+  <path d="M300 62 456 124v94c0 88-62 144-156 180-94-36-156-92-156-180v-94L300 62Z" fill="#fee2e2"/>
+  <path d="M300 104 412 148v70c0 62-42 103-112 134-70-31-112-72-112-134v-70l112-44Z" fill="#dc2626"/>
+  <path d="m250 218 34 34 78-88" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="164" y="316" width="272" height="36" rx="10" fill="#fee2e2"/>
+  <text x="300" y="341" fill="#991b1b" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="900" text-anchor="middle">SECURITE WEB</text>
+</svg>

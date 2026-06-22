@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Developpement web</title>
+  <desc id="desc">Illustration de code et d'interface web.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <rect x="74" y="74" width="452" height="252" rx="18" fill="#0f172a" opacity=".9"/>
+  <rect x="100" y="104" width="120" height="18" rx="9" fill="#38bdf8"/>
+  <rect x="100" y="146" width="310" height="14" rx="7" fill="#f8fafc" opacity=".85"/>
+  <rect x="100" y="180" width="250" height="14" rx="7" fill="#c4b5fd"/>
+  <rect x="100" y="214" width="340" height="14" rx="7" fill="#f8fafc" opacity=".85"/>
+  <rect x="100" y="248" width="190" height="14" rx="7" fill="#93c5fd"/>
+  <circle cx="456" cy="118" r="36" fill="#22c55e"/>
+  <text x="300" y="332" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">DWWM</text>
+</svg>

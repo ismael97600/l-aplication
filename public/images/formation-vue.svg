@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Vue et Nuxt</title>
+  <desc id="desc">Illustration de composants Vue.</desc>
+  <rect width="600" height="400" fill="#064e3b"/>
+  <path d="M300 300 130 94h82l88 106 88-106h82L300 300Z" fill="#41b883"/>
+  <path d="M300 236 190 94h62l48 58 48-58h62L300 236Z" fill="#ffffff"/>
+  <rect x="70" y="284" width="460" height="42" rx="12" fill="#ecfdf5" opacity=".95"/>
+  <circle cx="110" cy="305" r="8" fill="#10b981"/>
+  <rect x="136" y="297" width="280" height="16" rx="8" fill="#065f46" opacity=".75"/>
+</svg>

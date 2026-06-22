@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Bases de donnees</title>
+  <desc id="desc">Illustration SQL et NoSQL avec piles de donnees.</desc>
+  <rect width="600" height="400" fill="#1d4ed8"/>
+  <ellipse cx="300" cy="108" rx="160" ry="42" fill="#dbeafe"/>
+  <path d="M140 108v156c0 24 72 44 160 44s160-20 160-44V108" fill="#bfdbfe"/>
+  <ellipse cx="300" cy="264" rx="160" ry="44" fill="#93c5fd"/>
+  <ellipse cx="300" cy="188" rx="160" ry="42" fill="#eff6ff" opacity=".9"/>
+  <text x="300" y="202" fill="#1e3a8a" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="900" text-anchor="middle">SQL</text>
+  <text x="300" y="331" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">NoSQL</text>
+</svg>
