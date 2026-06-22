@@ -15,7 +15,7 @@ const routes = [
 
 const router = createRouter({
   history: createWebHashHistory(),
-  basse: import.env.BASSE_URL,
+  base: import.env.BASE_URL,
   routes,
   scrollBehavior() {
     return { top: 0 }
