@@ -13,5 +13,12 @@ import NavBar from './components/NavBar.vue'
 <style scoped>
 main {
   flex: 1;
+  padding-top: 82px;
+}
+
+@media (max-width: 520px) {
+  main {
+    padding-top: 108px;
+  }
 }
 </style>
